@@ -1,7 +1,7 @@
 RELEC Mammal Alignments
 
 The mammal alignments were generated from two sources:
-1. (150 loci) Downloaded directly from the OrthoMam database (http://www.orthomam.univ-montp2.fr/).
+1. (149 loci) Downloaded directly from the OrthoMam database (http://www.orthomam.univ-montp2.fr/).
 	These are orthologous, single copy exons and can be directly used for probe design.
 2. (22 Loci) Extracted and realigned from the ENSEMBL ortholog panel. These are intronless 
 	protein-coding sequences and therefore we have not confirmed intron-exon boundaries in these. 
